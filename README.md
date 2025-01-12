@@ -3,7 +3,7 @@ This is a modern and responsive website template designed with HTML, CSS, and Ja
 
 ## Features
 --**Responsive Design**: Optimized for all screen sizes from desktops to mobile devices.
---Modern Navigation: Sticky navbar with smooth scrolling.
+--**Modern Navigation**: Sticky navbar with smooth scrolling.
 --Slider: A full-screen image carousel for showcasing key offerings.
 --Services Section: Display your key services with icons.
 --Portfolio: Showcase your work in an attractive grid with hover effects.

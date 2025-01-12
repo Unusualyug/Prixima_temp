@@ -30,3 +30,23 @@ This is a modern and responsive website template designed with HTML, CSS, and Ja
 - **Styling**: Modify the `style.css` file to change the design, color scheme, or layout.
 - **Social Links**: Update the social media links in the navbar with your own.
 
+## Preview :
+
+![Screenshot 2025-01-12 092134](https://github.com/user-attachments/assets/2b9815e9-3225-45dc-a1ec-37526b6fb028)
+![Screenshot 2025-01-12 092206](https://github.com/user-attachments/assets/34d94198-29b4-4294-b180-06e749cf72e2)
+![Screenshot 2025-01-12 092220](https://github.com/user-attachments/assets/6d4986fd-5a0c-4de4-9dda-2bf902be92f8)
+![Screenshot 2025-01-12 092444](https://github.com/user-attachments/assets/ae4bb8b1-5bed-4341-a0ed-ec2f4b14dc72)
+![Screenshot 2025-01-12 092505](https://github.com/user-attachments/assets/28b629fd-6231-4e67-8736-65ed933c8daa)
+![Screenshot 2025-01-12 092524](https://github.com/user-attachments/assets/e9a32dc4-0bd8-4abc-b2cc-035c5c41dfd9)
+![Screenshot 2025-01-12 092541](https://github.com/user-attachments/assets/da9a205d-796c-4ed4-afaa-82592b95c1fc)
+
+
+
+
+https://github.com/user-attachments/assets/e6fdf4d5-e965-4798-a117-f55ee17514a7
+https://github.com/user-attachments/assets/3d9ff725-8a76-4a46-9ee0-eed0d1503686
+
+
+
+
+
